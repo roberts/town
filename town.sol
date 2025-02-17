@@ -1,11 +1,8 @@
 /**
  *
  *
-   $AIGF on base chain
-   AI Agent Girlfriends
-   https://AIGF.pro
-   https://x.com/AIGF_Base
-   https://AIGF_Base
+   whiskey $TOWN usa on base chain
+
 
    Contract features:
    100,000,000 tokens
@@ -1142,7 +1139,7 @@ interface IUniswapV2Router02 is IUniswapV2Router01 {
     ) external;
 }
 
-contract AIGF is ERC20, Ownable {
+contract Town is ERC20, Ownable {
     using SafeMath for uint256;
 
     IUniswapV2Router02 public immutable uniswapV2Router;
@@ -1205,7 +1202,7 @@ contract AIGF is ERC20, Ownable {
         address indexed oldWallet
     );
 
-    constructor() ERC20("AI Agent Girlfriends", "AIGF") {
+    constructor() ERC20("whiskey $TOWN usa", "TOWN") {
         uniswapV2Router = IUniswapV2Router02(
             0x4752ba5DBc23f44D87826276BF6Fd6b1C372aD24
         );
