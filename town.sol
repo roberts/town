@@ -1,7 +1,7 @@
 /**
  *
  *
-   whiskey $TOWN usa on base chain
+   whiskey $TOWN trail pass on base chain
 
 
    Contract features:
@@ -1202,7 +1202,7 @@ contract Town is ERC20, Ownable {
         address indexed oldWallet
     );
 
-    constructor() ERC20("whiskey $TOWN usa", "TOWN") {
+    constructor() ERC20("whiskey $TOWN trail pass", "TOWN") {
         uniswapV2Router = IUniswapV2Router02(
             0x4752ba5DBc23f44D87826276BF6Fd6b1C372aD24
         );
