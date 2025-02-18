@@ -1,2 +1,3 @@
-# town
-whiskey $TOWN usa
+# $TOWN
+
+whiskey $TOWN trail pass
