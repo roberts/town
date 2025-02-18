@@ -2,7 +2,7 @@
 
 whiskey $TOWN trail pass
 
-# Drew Roberts Contract Standard
+## Drew Roberts Contract Standard
 
 This repository is for updating & explaining the features of my Contract Standard for ERC-20 Tokens. The contract is designed to optimize the performance of long-term Ethereum token projects on Mainnet or a Layer-2. It removes all concern from token holders of nefarious behavior as there are no functions even available that could be misused by the project. The ultimate goal is to encourage transaction volume at launch and subsequent accumulation of tokens into the hands of long-term supporters of the project, fostering a strong community.
 
