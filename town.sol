@@ -2,7 +2,9 @@
  *
  *
    whiskey $TOWN trail pass on base chain
-
+   https://WhiskeyTown.io
+   https://x.com/WhiskeyTownPass
+   https://t.me/WhiskeyTownPass
 
    Contract features:
    100,000,000 tokens
@@ -1148,7 +1150,7 @@ contract Town is ERC20, Ownable {
         address(0x000000000000000000000000000000000000dEaD);
 
     string public exchangeLink = "https://app.uniswap.or/swap";
-    string public websiteLink = "https://DrewRoberts.com";
+    string public websiteLink = "https://WhiskeyTown.io";
 
     address public communityWallet;
     address public marketingWallet;
